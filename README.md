@@ -1,16 +1,16 @@
 # password_manager
 
-A new Flutter project.
+### A new Flutter project.
+<br/>
+<img height="600" src="https://user-images.githubusercontent.com/113705206/213314627-07c4dd58-bd2c-4fe1-b13f-f95506688c3e.png">
 
-## Getting Started
+<br/>
+<img height="600" src="https://user-images.githubusercontent.com/113705206/213318091-ed8240d9-8493-4bea-bca4-705a417c8298.png">
 
-This project is a starting point for a Flutter application.
+<br/>
+<img height="600" src="https://user-images.githubusercontent.com/113705206/213318385-bfaeb7d8-c42b-4853-a31c-36dd1961d6c8.png">
 
-A few resources to get you started if this is your first Flutter project:
+<br/>
+<img height="600" src="https://user-images.githubusercontent.com/113705206/213318303-c1803d97-9de0-4170-a3f3-413dc31e0719.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## password manager automatically generates strong random passwords or you can save your own password and also add notes
